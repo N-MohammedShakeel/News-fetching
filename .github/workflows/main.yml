@@ -2,7 +2,7 @@ name: Fetch News and Update JSON
 
 on:
   schedule:
-    - cron: "29 17 * * *" # Runs at 06:30 UTC daily
+    - cron: "20 1 * * *" # Runs at 01:20 AM UTC (6:50 AM IST)
   workflow_dispatch: # Allows manual trigger
 
 jobs:
