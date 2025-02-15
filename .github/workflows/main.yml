@@ -21,7 +21,7 @@ jobs:
         run: pip install requests bs4 # Install necessary Python packages
 
       - name: Run News Scraper
-        run: python news.py # Update this if your script is in a different location
+        run: python scraper/news.py
 
       - name: Commit and Push Changes
         run: |
