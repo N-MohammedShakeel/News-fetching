@@ -10,7 +10,7 @@ app.use(cors());
 app.use(express.static(path.join(__dirname, "public")));
 
 const GITHUB_RAW_URL =
-  "https://raw.githubusercontent.com/N-MohammedShakeel/News-fetching/backend/news.json";
+  "https://raw.githubusercontent.com/N-MohammedShakeel/News-fetching/main/news.json";
 
 app.get("/news", async (req, res) => {
   try {
