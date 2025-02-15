@@ -1,14 +1,13 @@
 const express = require("express");
 const cors = require("cors");
 const axios = require("axios");
-const path = require("path");
 
 const app = express();
+const PORT = process.env.PORT || 5000;
+
 app.use(cors());
 
-// Serve static files (HTML, CSS, JS)
-app.use(express.static(path.join(__dirname, "public")));
-
+// GitHub Raw URL for news.json
 const GITHUB_RAW_URL =
   "https://raw.githubusercontent.com/N-MohammedShakeel/News-fetching/main/news.json";
 
@@ -17,9 +16,15 @@ app.get("/news", async (req, res) => {
     const response = await axios.get(GITHUB_RAW_URL);
     res.json(response.data);
   } catch (error) {
-    res.status(500).json({ error: "Failed to fetch news" });
+    console.error("Error fetching news.json:", error);
+    res.status(500).json({ message: "Failed to load news" });
   }
 });
 
-const PORT = process.env.PORT || 5000;
-app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
+app.get("/", (req, res) => {
+  res.send("Welcome to the News API. Access news at /news.");
+});
+
+app.listen(PORT, () => {
+  console.log(`Server running on port ${PORT}`);
+});
