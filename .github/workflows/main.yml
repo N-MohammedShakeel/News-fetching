@@ -18,7 +18,7 @@ jobs:
           python-version: "3.9"
 
       - name: Install Dependencies
-        run: pip install requests bs4 # Install necessary Python packages
+        run: pip install requests bs4 feedparser # Install necessary Python packages
 
       - name: Run News Scraper
         run: python scraper/news.py
