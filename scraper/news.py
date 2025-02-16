@@ -11,20 +11,33 @@ feeds = {
 # Automatically set target date to yesterday
 target_date = (datetime.now() - timedelta(days=1)).date()
 
+# Function to extract image URL from an entry
+def extract_image(entry):
+    if 'media_content' in entry and entry.media_content:
+        return entry.media_content[0]['url']
+    elif 'media_thumbnail' in entry and entry.media_thumbnail:
+        return entry.media_thumbnail[0]['url']
+    elif 'summary' in entry and 'img' in entry.summary:
+        import re
+        match = re.search(r'<img.*?src="(.*?)"', entry.summary)
+        if match:
+            return match.group(1)
+    return None  # Return None if no image found
+
 # Function to fetch and filter articles
 def fetch_articles(feed_url):
     articles = []
     feed = feedparser.parse(feed_url)
     
     for entry in feed.entries:
-        # Ensure 'published_parsed' exists
         if hasattr(entry, 'published_parsed'):
             published_date = datetime(*entry.published_parsed[:6]).date()
             if published_date == target_date:
                 articles.append({
                     'title': entry.title,
                     'link': entry.link,
-                    'published': entry.published
+                    'published': entry.published,
+                    'image_url': extract_image(entry)
                 })
     
     return articles
