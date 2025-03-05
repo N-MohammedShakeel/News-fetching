@@ -1,15 +1,16 @@
 import feedparser
 import json
 from datetime import datetime, timedelta
+import re
 
 # Define the RSS feed URLs
 feeds = {
     'Inc42': 'https://inc42.com/feed',
-    'Entrackr': 'https://entrackr.com/feed'
+    'Entrackr': 'https://entrackr.com/rss'
 }
 
-# Automatically set target date to yesterday
-target_date = (datetime.now() - timedelta(days=1)).date()
+# Set target date to yesterday
+target_date = (datetime.now() - timedelta(days=1)).date()  # Only yesterday's news
 
 # Function to extract image URL from an entry
 def extract_image(entry):
@@ -18,7 +19,6 @@ def extract_image(entry):
     elif 'media_thumbnail' in entry and entry.media_thumbnail:
         return entry.media_thumbnail[0]['url']
     elif 'summary' in entry and 'img' in entry.summary:
-        import re
         match = re.search(r'<img.*?src="(.*?)"', entry.summary)
         if match:
             return match.group(1)
@@ -52,10 +52,9 @@ all_articles = {source: articles for source, articles in all_articles.items() if
 output_file = 'news.json'
 
 # Write the filtered articles to a JSON file
-with open(output_file, 'w') as json_file:
-    json.dump(all_articles, json_file, indent=4)
-
 if all_articles:
-    print(f"Articles from {target_date} have been written to {output_file}")
+    with open(output_file, 'w') as json_file:
+        json.dump(all_articles, json_file, indent=4)
+    print(f"Articles from {target_date} (Yesterday) have been written to {output_file}")
 else:
     print(f"No articles found for {target_date}. JSON file not created.")
