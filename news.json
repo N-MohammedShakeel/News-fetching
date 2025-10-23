@@ -1,48 +1,96 @@
 {
     "Inc42": [
         {
-            "title": "Shadowfax Gets SEBI Nod For Its IPO",
-            "link": "https://inc42.com/buzz/shadowfax-gets-sebi-nod-for-its-ipo/",
-            "published": "Tue, 21 Oct 2025 08:49:50 +0000",
-            "image_url": "https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2025/03/Shadowfax-ftr.jpg"
+            "title": "Govt Notifies Amendments To IT Rules To Streamline Content Takedown",
+            "link": "https://inc42.com/buzz/govt-notifies-amendments-to-it-rules-to-streamline-content-takedown/",
+            "published": "Wed, 22 Oct 2025 20:32:42 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2025/10/IT-Rules-featured.png"
         },
         {
-            "title": "Ola Electric Faces Police Probe Over Employee Suicide, Company Denies Allegations",
-            "link": "https://inc42.com/buzz/ola-electric-faces-police-probe-over-employee-suicide-company-denies-allegations/",
-            "published": "Tue, 21 Oct 2025 08:42:55 +0000",
-            "image_url": "https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2025/10/ola-electric.png"
+            "title": "Uniphore Raises $260 Mn From NVIDIA, AMD, Others",
+            "link": "https://inc42.com/buzz/uniphore-raises-260-mn-from-nvidia-amd-others/",
+            "published": "Wed, 22 Oct 2025 14:34:15 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2022/02/uniphoreFeature-Image.jpg"
         },
         {
-            "title": "PW\u2019s Teacher Problem, Lahori\u2019s Sparkling Story & More",
-            "link": "https://inc42.com/buzz/pws-teacher-problem-lahoris-sparkling-story-more/",
-            "published": "Tue, 21 Oct 2025 02:30:54 +0000",
-            "image_url": "https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2025/10/FTR-Daily-Brief-17.png"
+            "title": "Zoho To Enter Consumer Payments With Zoho Pay",
+            "link": "https://inc42.com/buzz/zoho-to-enter-consumer-payments-with-zoho-pay/",
+            "published": "Wed, 22 Oct 2025 13:14:11 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2025/07/zoho-India-featured.png"
         },
         {
-            "title": "Away From The Buzz: How Moglix Built A $700 Mn Global B2B Marketplace",
-            "link": "https://inc42.com/features/away-from-the-buzz-how-moglix-built-a-700-mn-global-b2b-marketplace/",
-            "published": "Tue, 21 Oct 2025 01:30:26 +0000",
-            "image_url": "https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2025/10/Moglix-ftr.jpg"
+            "title": "Easebuzz\u2019s FY25 Profit Zooms To INR 19 Cr, Revenue Surpasses INR 600 Cr",
+            "link": "https://inc42.com/buzz/easebuzzs-fy25-profit-zooms-to-inr-19-cr-revenue-surpasses-inr-600-cr/",
+            "published": "Wed, 22 Oct 2025 12:35:04 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2025/10/Easebuzz-FY25.jpg"
+        },
+        {
+            "title": "UnifyApps Nets $50 Mn To Bolster Its AI Tech Stack",
+            "link": "https://inc42.com/buzz/unifyapps-nets-50-mn-to-bolster-its-ai-tech-stack/",
+            "published": "Wed, 22 Oct 2025 12:00:33 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2025/10/UnifyApps-CEOs-Feature.png"
+        },
+        {
+            "title": "Eternal Gets INR 128 Cr GST Demand, Penalty Notice",
+            "link": "https://inc42.com/buzz/eternal-gets-inr-128-cr-gst-demand-penalty-notice/",
+            "published": "Wed, 22 Oct 2025 11:55:46 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2025/08/EternalFeature.jpg"
+        },
+        {
+            "title": "India Quotient Closes Fund V At $129 Mn To Back Early Stage Startups",
+            "link": "https://inc42.com/buzz/india-quotient-closes-fund-v-at-129-mn-to-back-early-stage-startups/",
+            "published": "Wed, 22 Oct 2025 11:17:51 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2025/10/IndiaQuotient-Fund-V-ftr.jpg"
+        },
+        {
+            "title": "MeitY Proposes New IT Rules To Tackle Social Media Deepfake Abuse",
+            "link": "https://inc42.com/buzz/meity-proposes-new-it-rules-to-tackle-social-media-deepfake-abuse/",
+            "published": "Wed, 22 Oct 2025 10:54:53 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2025/10/deepfakes-panel-featured.png"
+        },
+        {
+            "title": "Innoviti Trims FY25 Loss By 12% To INR 62 Cr",
+            "link": "https://inc42.com/buzz/innoviti-trims-fy25-loss-by-12-to-inr-62-cr/",
+            "published": "Wed, 22 Oct 2025 10:14:11 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2025/10/Innoviti-Technologies-ftr.jpg"
+        },
+        {
+            "title": "Quick Commerce Major Zepto Expands ESOP Pool By $170 Mn",
+            "link": "https://inc42.com/buzz/quick-commerce-major-zepto-expands-esop-pool-by-170-mn/",
+            "published": "Wed, 22 Oct 2025 08:03:17 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2025/04/zepto-palicha-featured.jpg"
         }
     ],
     "Entrackr": [
         {
-            "title": "Innoviti reports Rs 143 Cr revenue and Rs 62 Cr loss in FY25",
-            "link": "https://entrackr.com/fintrackr/innoviti-reports-rs-143-cr-revenue-and-rs-62-cr-loss-in-fy25-10581300",
-            "published": "Tue, 21 Oct 2025 14:15:29 +0530",
-            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2025/10/10/innoviti-2025-10-10-17-13-25.webp"
+            "title": "UnifyApps raises $50 Mn in Series B led by WestBridge",
+            "link": "https://entrackr.com/news/unifyapps-raises-50-mn-in-series-b-led-by-westbridge-10584514",
+            "published": "Wed, 22 Oct 2025 17:45:57 +0530",
+            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2025/10/22/unifyapps-2025-10-22-17-41-15.webp"
         },
         {
-            "title": "Ola Electric clarifies on FIR against CEO and officials over employee\u2019s death",
-            "link": "https://entrackr.com/news/ola-electric-clarifies-on-fir-against-ceo-and-officials-over-employees-death-10580872",
-            "published": "Tue, 21 Oct 2025 12:01:34 +0530",
-            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2025/10/21/ola-2025-10-21-12-00-42.webp"
+            "title": "India\u202fQuotient raises $129 Mn for Fund V",
+            "link": "https://entrackr.com/snippets/india-quotient-raises-129-mn-for-fund-v-10584462",
+            "published": "Wed, 22 Oct 2025 17:31:24 +0530",
+            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2025/10/22/indiaquotient-2025-10-22-17-27-51.png"
         },
         {
-            "title": "Flipkart-backed Shadowfax receives SEBI nod for IPO",
-            "link": "https://entrackr.com/news/flipkart-backed-shadowfax-receives-sebi-nod-for-ipo-10580572",
-            "published": "Tue, 21 Oct 2025 10:03:02 +0530",
-            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2025/10/21/shadowfax-2025-10-21-09-38-01.webp"
+            "title": "Seekho\u2019s valuation jumps 4.6X in Series B round",
+            "link": "https://entrackr.com/decoding/seekhos-valuation-jumps-46x-in-series-b-round-10584358",
+            "published": "Wed, 22 Oct 2025 16:57:48 +0530",
+            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2025/10/22/seekho-2025-10-22-16-41-34.png"
+        },
+        {
+            "title": "Zoho to enter consumer payments with \u2018Zoho Pay\u2019",
+            "link": "https://entrackr.com/news/zoho-to-enter-consumer-payments-with-zoho-pay-10584086",
+            "published": "Wed, 22 Oct 2025 15:55:19 +0530",
+            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2025/10/22/zoho-2025-10-22-15-38-41.png"
+        },
+        {
+            "title": "Easebuzz reports 2.3X revenue growth in FY25; PAT jumps to Rs 19 Cr",
+            "link": "https://entrackr.com/fintrackr/easebuzz-reports-23x-revenue-growth-in-fy25-pat-jumps-to-rs-19-cr-10583368",
+            "published": "Wed, 22 Oct 2025 12:00:07 +0530",
+            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2025/09/29/easebuzz-2025-09-29-12-53-13.png"
         }
     ]
 }
