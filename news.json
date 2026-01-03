@@ -1,36 +1,114 @@
 {
     "Inc42": [
         {
-            "title": "2025 In Review: The Best Of Inc42\u2019s 30 Startups To Watch",
-            "link": "https://inc42.com/startups/2025-in-review-the-best-of-inc42s-30-startups-to-watch/",
-            "published": "Thu, 01 Jan 2026 09:29:32 +0000",
-            "image_url": "https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2026/01/FTR-100-4.jpg"
+            "title": "Centre Proposes 90-Day Work A Year Rule To Enhance Gig Workers\u2019 Social Security",
+            "link": "https://inc42.com/buzz/centre-proposes-90-day-work-a-year-rule-to-enhance-gig-workers-social-security/",
+            "published": "Fri, 02 Jan 2026 16:25:13 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2025/11/GIG-Worker-ftr.jpg"
+        },
+        {
+            "title": "MeitY Issues Notice To X Over Alleged Misuse Of Grok For Sexually Explicit Content",
+            "link": "https://inc42.com/buzz/meity-issues-notice-to-x-over-alleged-misuse-of-grok-for-sexually-explicit-content/",
+            "published": "Fri, 02 Jan 2026 15:13:36 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2018/05/Elon-Musk_Tesla-CEO.jpg"
+        },
+        {
+            "title": "UPI Logs Another Record Year, Transactions Cross 22,000 Cr Mark In 2025",
+            "link": "https://inc42.com/features/upi-logs-another-record-year-transactions-cross-22000-cr-mark-in-2025/",
+            "published": "Fri, 02 Jan 2026 14:55:49 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2026/01/YIR-UPI-in-2025-ftr.jpg"
+        },
+        {
+            "title": "Centre Clears INR 41,863 Cr Projects Under PLI Scheme For Electronics Components",
+            "link": "https://inc42.com/buzz/centre-clears-inr-41863-cr-projects-under-pli-scheme-for-electronics-components/",
+            "published": "Fri, 02 Jan 2026 12:46:25 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2025/07/electronics-manufacturing-india-1-1.jpg"
+        },
+        {
+            "title": "Delivery Platforms Log Record Festive Orders Despite Gig Workers\u2019 Strike",
+            "link": "https://inc42.com/buzz/delivery-platforms-log-record-festive-orders-despite-gig-workers-strike/",
+            "published": "Fri, 02 Jan 2026 11:00:25 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2026/01/Gig-worker-strike-story-ftr.jpg"
+        },
+        {
+            "title": "Agritech Startup Arya.ag Bags $80 Mn From GEF Capital Partners",
+            "link": "https://inc42.com/buzz/agritech-startup-arya-ag-bags-80-mn-from-gef-capital-partners/",
+            "published": "Fri, 02 Jan 2026 10:03:09 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2025/01/ftr-4-1-1.png"
+        },
+        {
+            "title": "Zappfresh To Acquire Majority Stake In RTC Meat Brand Avyom Foodtech",
+            "link": "https://inc42.com/buzz/zappfresh-to-acquire-majority-stake-in-rtc-meat-brand-avyom-foodtech/",
+            "published": "Fri, 02 Jan 2026 08:07:20 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2026/01/Zapfresh.jpg"
+        },
+        {
+            "title": "Ola Electric Jumps Over 8% On Two-Wheeler EV Market Share Increase",
+            "link": "https://inc42.com/buzz/ola-electric-jumps-over-8-on-two-wheeler-ev-market-share-increase/",
+            "published": "Fri, 02 Jan 2026 07:23:13 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2025/12/ola-electric-sankalp-featured.png"
+        },
+        {
+            "title": "Knight FinTech Raises $23.6 Mn To Build Infrastructure For Financial Institutions",
+            "link": "https://inc42.com/buzz/knight-fintech-raises-23-6-mn-to-build-infrastructure-for-financial-institutions/",
+            "published": "Fri, 02 Jan 2026 06:55:16 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2026/01/Untitled-design-75.png"
+        },
+        {
+            "title": "ED Freezes INR 192 Cr Assets Linked To WinZO",
+            "link": "https://inc42.com/buzz/ed-freezes-inr-192-cr-assets-linked-to-winzo/",
+            "published": "Fri, 02 Jan 2026 05:53:02 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2026/01/winzo-trademark-featured-.jpg"
+        },
+        {
+            "title": "Indian Startups In 2026, India\u2019s Post RMG Era & More",
+            "link": "https://inc42.com/buzz/indian-startups-in-2026-indias-post-rmg-era-more/",
+            "published": "Fri, 02 Jan 2026 02:30:17 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2025/12/FTR-Daily-Brief-65.png"
         }
     ],
     "Entrackr": [
         {
-            "title": "ED freezes Rs 192 Cr linked to WinZO subsidiary in money laundering probe",
-            "link": "https://entrackr.com/news/ed-freezes-rs-192-cr-linked-to-winzo-subsidiary-in-money-laundering-probe-10964364",
-            "published": "Thu, 01 Jan 2026 20:46:03 +0530",
-            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2025/08/24/winzo-2025-08-24-20-38-21.png"
+            "title": "Zappfresh to acquire majority stake in Avyom Foodtech",
+            "link": "https://entrackr.com/news/zappfresh-to-acquire-majority-stake-in-avyom-foodtech-10966361",
+            "published": "Fri, 02 Jan 2026 17:18:36 +0530",
+            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/01/02/zappfresh-2026-01-02-16-05-32.png"
         },
         {
-            "title": "UPI records highest ever monthly transactions at 21.63 Bn in December",
-            "link": "https://entrackr.com/news/upi-records-highest-ever-monthly-transactions-at-2163-bn-in-december-10963201",
-            "published": "Thu, 01 Jan 2026 13:21:15 +0530",
-            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2024/12/31/uZFueQZkFImoYEzeDEJJ.jpg"
+            "title": "FreshToHome posts Rs 421 Cr revenue in FY25; losses remain stable",
+            "link": "https://entrackr.com/fintrackr/freshtohome-posts-rs-421-cr-revenue-in-fy25-losses-remain-stable-10965975",
+            "published": "Fri, 02 Jan 2026 15:27:08 +0530",
+            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/01/02/freshtohome-2026-01-02-13-34-36.png"
         },
         {
-            "title": "Former Steadview MD Puneet Kumar joins Mirae Asset Venture India as CEO",
-            "link": "https://entrackr.com/news/former-steadview-md-puneet-kumar-joins-mirae-asset-venture-india-as-ceo-10963079",
-            "published": "Thu, 01 Jan 2026 12:16:06 +0530",
-            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/01/01/mirae-asset-2026-01-01-21-48-16.png"
+            "title": "Agritech firm Arya.ag raises over $80 Mn in Series D from GEF Capital",
+            "link": "https://entrackr.com/news/agritech-firm-aryaag-raises-over-80-mn-in-series-d-from-gef-capital-10965656",
+            "published": "Fri, 02 Jan 2026 14:01:49 +0530",
+            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/01/02/aryaag-2026-01-02-13-38-02.webp"
         },
         {
-            "title": "TVS leads December E2W sales, Ather falls 20%, Ola Electric improves",
-            "link": "https://entrackr.com/news/tvs-leads-december-e2w-sales-ather-falls-20-ola-electric-improves-10962980",
-            "published": "Thu, 01 Jan 2026 11:52:50 +0530",
-            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/01/01/electric-ola-2026-01-01-11-52-31.png"
+            "title": "Kapiva spends Rs 188 Cr on advertising in FY25; posts Rs 342 Cr revenue",
+            "link": "https://entrackr.com/fintrackr/kapiva-spends-rs-188-cr-on-advertising-in-fy25-posts-rs-342-cr-revenue-10965403",
+            "published": "Fri, 02 Jan 2026 12:30:37 +0530",
+            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2025/12/31/kapiva-2025-12-31-16-57-50.png"
+        },
+        {
+            "title": "Exclusive: FreshToHome to raise Rs 75 Cr in debt funding",
+            "link": "https://entrackr.com/snippets/exclusive-freshtohome-to-raise-rs-75-cr-in-debt-funding-10965347",
+            "published": "Fri, 02 Jan 2026 12:11:51 +0530",
+            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/01/02/freshtohome-2026-01-02-12-11-39.webp"
+        },
+        {
+            "title": "Knight Fintech raises $23.6 Mn in Series A round led by Accel",
+            "link": "https://entrackr.com/news/knight-fintech-raises-236-mn-led-by-accel-10965193",
+            "published": "Fri, 02 Jan 2026 11:10:03 +0530",
+            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/01/02/knight-fintech-2026-01-02-10-53-19.png"
+        },
+        {
+            "title": "INDmoney\u2019s revenue jumps 2.3X to Rs 164 Cr in FY25",
+            "link": "https://entrackr.com/news/indmoneys-revenue-jumps-23x-to-rs-164-cr-in-fy25-10965136",
+            "published": "Fri, 02 Jan 2026 10:45:16 +0530",
+            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2024/11/15/NqCDMAKlT0jNoayuk9B4.png"
         }
     ]
 }
