@@ -1,10 +1,216 @@
 {
     "Inc42": [
         {
-            "title": "Flipkart\u2019s Summer Of Discontent",
-            "link": "https://inc42.com/features/flipkarts-summer-of-discontent/",
-            "published": "Sun, 25 Oct 2026 05:30:22 +0000",
-            "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Flipkart_Outline-ftr.jpg"
+            "title": "News Publishers Move SC To Challenge The DPDP Act",
+            "link": "https://inc42.com/buzz/news-publishers-move-sc-to-challenge-the-dpdp-act/",
+            "published": "Mon, 26 Oct 2026 20:14:46 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/DPDP-deadline-ftr.jpg"
+        },
+        {
+            "title": "BioStack Nets $9.5 Mn To Build Training Datasets For Medical AI",
+            "link": "https://inc42.com/buzz/biostack-nets-9-5-mn-to-build-training-datasets-for-medical-ai/",
+            "published": "Mon, 26 Oct 2026 19:47:18 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/biostack-funding-featured.png"
+        },
+        {
+            "title": "Matiks Bags $10 Mn To Take Its Puzzle Gaming Platform Global",
+            "link": "https://inc42.com/buzz/matiks-bags-10-mn-to-take-its-puzzle-gaming-platform-global/",
+            "published": "Mon, 26 Oct 2026 18:06:06 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Matiks-funding-ftr.jpg"
+        },
+        {
+            "title": "LEAP India Q2: Profit Zooms 62% YoY To \u20b918 Cr, Revenue Up 18%",
+            "link": "https://inc42.com/buzz/leap-india-q2-profit-zooms-62-yoy-to-%e2%82%b918-cr-revenue-up-18/",
+            "published": "Mon, 26 Oct 2026 16:55:53 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Leap-ftr.jpg"
+        },
+        {
+            "title": "AceVector Q2 Loss Surges 116% YoY To \u20b916.2 Cr, Revenue Up 17%",
+            "link": "https://inc42.com/buzz/acevector-q2-loss-surges-116-yoy-to-%e2%82%b916-2-cr-revenue-up-17/",
+            "published": "Mon, 26 Oct 2026 16:22:35 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/FT-ACEVECTOR-2.jpg"
+        },
+        {
+            "title": "Nazara Swings Back To The Black In Q2, Posts \u20b934 Cr Profit",
+            "link": "https://inc42.com/buzz/nazara-swings-back-to-the-black-in-q2-posts-%e2%82%b934-cr-profit/",
+            "published": "Mon, 26 Oct 2026 16:15:01 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Nazara_.jpg"
+        },
+        {
+            "title": "Paytm Q2 Profit Skyrockets Over 10X YoY To \u20b9225 Cr, Revenue Up 28%",
+            "link": "https://inc42.com/buzz/paytm-q2-profit-skyrockets-over-10x-yoy-to-%e2%82%b9225-cr-revenue-up-28/",
+            "published": "Mon, 26 Oct 2026 15:36:18 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/08/Paytm-follow-up-ftr.jpg"
+        },
+        {
+            "title": "Tata Communications To Pour Up To $450 Mn To Build AI Connectivity Infrastructure",
+            "link": "https://inc42.com/buzz/tata-communications-to-pour-up-to-450-mn-in-build-ai-connectivity-infrastructure/",
+            "published": "Mon, 26 Oct 2026 15:27:25 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/pranav-pai-ftr-1.jpg"
+        },
+        {
+            "title": "Exclusive: axiTrust To Raise $5 Mn From Argor.vc, Others",
+            "link": "https://inc42.com/buzz/exclusive-axitrust-to-raise-5-mn-from-argor-vc-others/",
+            "published": "Mon, 26 Oct 2026 14:29:23 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Axitrust-Funding-ftr.jpg"
+        },
+        {
+            "title": "Exclusive: AI-Powered Trading Platform Tradl Bags $4.1 Mn From Nexus, Stellaris",
+            "link": "https://inc42.com/buzz/exclusive-ai-powered-trading-platform-tradl-bags-4-1-mn-from-nexus-stellaris/",
+            "published": "Mon, 26 Oct 2026 13:24:31 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Tradl-Funding-ftr.jpg"
+        },
+        {
+            "title": "Pronto Founder Anjali Sardana Sets Up Physical AI Venture Provision Labs In US",
+            "link": "https://inc42.com/buzz/pronto-founder-anjali-sardana-sets-up-physical-ai-venture-provision-labs-in-us/",
+            "published": "Mon, 26 Oct 2026 12:43:52 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/pronto-ft.png"
+        },
+        {
+            "title": "Pune Police Ask Google, Apple To Remove Rapido App Over Bike Taxi Operations",
+            "link": "https://inc42.com/buzz/pune-police-ask-google-apple-to-remove-rapido-app-over-bike-taxi-operations/",
+            "published": "Mon, 26 Oct 2026 11:53:18 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/04/Rapido-Social.jpg"
+        },
+        {
+            "title": "Aequs Q2: Loss Widens 2.5X To \u20b952.4 Cr, Revenue Jumps 45% YoY",
+            "link": "https://inc42.com/buzz/aequs-q2-loss-widens-2-5x-to-%e2%82%b952-4-cr-revenue-jumps-45-yoy/",
+            "published": "Mon, 26 Oct 2026 11:52:28 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Aequs-ft.png"
+        },
+        {
+            "title": "Announcing FAST42 2027: The Hunt For India\u2019s 42 Fastest-Growing D2C Brands Begins",
+            "link": "https://inc42.com/buzz/announcing-fast42-2027-the-hunt-for-indias-42-fastest-growing-d2c-brands-begins/",
+            "published": "Mon, 26 Oct 2026 11:30:14 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/ftr-5.jpg"
+        },
+        {
+            "title": "Exclusive: Imarticus Eyes Confidential Filing In 2-3 Months For \u20b91,000 Cr IPO",
+            "link": "https://inc42.com/buzz/exclusive-imarticus-eyes-confidential-filing-in-2-3-months-for-%e2%82%b91000-cr-ipo/",
+            "published": "Mon, 26 Oct 2026 11:02:03 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Imarticus-learning-ftr.jpg"
+        },
+        {
+            "title": "MakeMyTrip Swings To $1.8 Mn Profit In Q2 FY27, Revenue Up 2.5% YoY",
+            "link": "https://inc42.com/buzz/makemytrip-swings-to-1-8-mn-profit-in-q2-fy27-revenue-up-2-5-yoy/",
+            "published": "Mon, 26 Oct 2026 10:37:37 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/05/MakeMyTrip-ftr-1.jpg"
+        },
+        {
+            "title": "Veefin H1 FY27 Profit Jumps 2.3X YoY To \u20b925 Cr, Revenue More Than Doubles",
+            "link": "https://inc42.com/buzz/veefin-h1-fy27-profit-jumps-2-3x-yoy-to-%e2%82%b925-cr-revenue-more-than-doubles/",
+            "published": "Mon, 26 Oct 2026 09:32:40 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/04/Veefin-WTF_feat.jpg"
+        },
+        {
+            "title": "Ather Turns Profitable In Q2, Posts \u20b91.3 Cr PAT",
+            "link": "https://inc42.com/buzz/ather-turns-profitable-in-q2-posts-%e2%82%b91-3-cr-pat/",
+            "published": "Mon, 26 Oct 2026 09:07:57 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/08/Ather-Energy-Q2-Follow-ftr.jpg"
+        },
+        {
+            "title": "L Catterton Invests In InMobi-Backed AI Shopping Platform Glance",
+            "link": "https://inc42.com/buzz/l-catterton-backs-inmobi-backed-glance-to-expand-its-ai-shopping-business-in-us/",
+            "published": "Mon, 26 Oct 2026 08:38:54 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Glance-ftr.jpg"
+        },
+        {
+            "title": "[Update] IRDAI Extends Feedback Deadline For Insurance Distribution Reforms To Oct 31",
+            "link": "https://inc42.com/buzz/insurance-brokers-oppose-irdai-reforms-project-70-revenue-loss/",
+            "published": "Mon, 26 Oct 2026 07:25:29 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/IRDAIs-ftr.jpg"
+        }
+    ],
+    "Entrackr": [
+        {
+            "title": "WeWork India\u2019s Q2 FY27 revenue rises 34% to Rs 768 Cr, profit jumps over 3X",
+            "link": "https://entrackr.com/fintrackr/wework-indias-q2-fy27-revenue-rises-34-to-rs-768-cr-profit-jumps-over-3x-12755184",
+            "published": "Mon, 26 Oct 2026 22:45:24 +0530",
+            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/10/26/images-2026-10-26-22-23-28.jpg"
+        },
+        {
+            "title": "Paytm reports Rs 2,648 Cr revenue in Q2 FY27; profit jumps 10.7X",
+            "link": "https://entrackr.com/fintrackr/paytm-reports-rs-2648-cr-revenue-in-q2-fy27-profit-jumps-107x-12755092",
+            "published": "Mon, 26 Oct 2026 21:52:57 +0530",
+            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/10/26/paytm-2026-10-26-22-01-33.png"
+        },
+        {
+            "title": "Nazara returns to profit in Q2 FY27; advertising accounts for 54% of total cost",
+            "link": "https://entrackr.com/fintrackr/nazara-returns-to-profit-in-q2-fy27-advertising-accounts-for-54-of-total-cost-12755062",
+            "published": "Mon, 26 Oct 2026 21:32:20 +0530",
+            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/10/26/20896f9f-19dc-4316-a61a-ec5ec47dfff2-2026-10-26-22-05-02.png"
+        },
+        {
+            "title": "D2C apparel brand ReplyAll raises Rs 9.7 Cr in pre-Series A round",
+            "link": "https://entrackr.com/snippets/d2c-apparel-brand-replyall-raises-rs-97-cr-in-pre-series-a-round-12754832",
+            "published": "Mon, 26 Oct 2026 20:11:39 +0530",
+            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/10/26/file_00000000d8b482089c970e5474ae2b2a-2026-10-26-19-56-26.png"
+        },
+        {
+            "title": "Social gaming startup Matiks raises $10 Mn in Pre-Series A led by General Catalyst",
+            "link": "https://entrackr.com/news/social-gaming-startup-matiks-raises-10-mn-in-pre-series-a-led-by-general-catalyst-12754114",
+            "published": "Mon, 26 Oct 2026 19:45:37 +0530",
+            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/10/26/jakal-2026-10-26-20-46-42.png"
+        },
+        {
+            "title": "Healthcare startup BioStack raises $9.5 Mn in seed funding led by Peak XV",
+            "link": "https://entrackr.com/snippets/healthcare-startup-biostack-raises-95-mn-in-seed-funding-led-by-peak-xv-12753841",
+            "published": "Mon, 26 Oct 2026 17:24:53 +0530",
+            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/10/26/biostack-2026-10-26-16-30-17.png"
+        },
+        {
+            "title": "Entrackr takes The Spur D2C Community mixer to Bengaluru",
+            "link": "https://entrackr.com/event/entrackr-takes-the-spur-d2c-community-mixer-to-bengaluru-12753813",
+            "published": "Mon, 26 Oct 2026 17:17:38 +0530",
+            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/10/26/spur-feature-image-2026-10-26-17-07-12.png"
+        },
+        {
+            "title": "Ather Energy shares jump 14% on Q2 profit turnaround; capacity set to expand",
+            "link": "https://entrackr.com/news/ather-energy-shares-jump-14-on-q2-profit-turnaround-capacity-set-to-expand-12753478",
+            "published": "Mon, 26 Oct 2026 15:57:17 +0530",
+            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/10/26/01-2026-10-26-16-03-28.png"
+        },
+        {
+            "title": "Ather Energy turns profitable in Q2 FY27; revenue surges 63%",
+            "link": "https://entrackr.com/fintrackr/ather-energy-turns-profitable-in-q2-fy27-revenue-surges-63-12753153",
+            "published": "Mon, 26 Oct 2026 14:40:09 +0530",
+            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/08/03/ather-energy-2026-08-03-12-44-26.png"
+        },
+        {
+            "title": "Pronto founder Anjali Sardana sets up physical AI venture Provision Labs in US",
+            "link": "https://entrackr.com/news/pronto-founder-anjali-sardana-sets-up-physical-ai-venture-provision-labs-in-us-12753088",
+            "published": "Mon, 26 Oct 2026 14:26:55 +0530",
+            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/10/26/pronto-2026-10-26-14-22-59.png"
+        },
+        {
+            "title": "Kapiva crosses Rs 460 Cr revenue in FY26; targets EBITDA profitability by Q4 FY27",
+            "link": "https://entrackr.com/fintrackr/kapiva-crosses-rs-460-cr-revenue-in-fy26-targets-ebitda-profitability-by-q4-fy27-12752915",
+            "published": "Mon, 26 Oct 2026 13:47:28 +0530",
+            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/10/21/kapiva-2026-10-21-18-47-01.png"
+        },
+        {
+            "title": "Yes Madam\u2019s revenue jumps over 2X to Rs 195 Cr in FY26",
+            "link": "https://entrackr.com/fintrackr/yes-madams-revenue-jumps-over-2x-to-rs-195-cr-in-fy26-12752741",
+            "published": "Mon, 26 Oct 2026 13:04:32 +0530",
+            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/10/26/yes-madam-2026-10-26-11-54-24.png"
+        },
+        {
+            "title": "Kairon Capital leads Rs 7.6 Cr seed round in travel-tech startup Bucketlistt.com",
+            "link": "https://entrackr.com/snippets/kairon-capital-leads-rs-76-cr-seed-round-in-travel-tech-startup-bucketlisttcom-12752166",
+            "published": "Mon, 26 Oct 2026 11:01:17 +0530",
+            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/10/26/bucklist-2026-10-26-10-24-03.png"
+        },
+        {
+            "title": "L Catterton makes strategic investment in Jio Platforms-backed Glance",
+            "link": "https://entrackr.com/snippets/l-catterton-makes-strategic-investment-in-jio-platforms-backed-glance-12752023",
+            "published": "Mon, 26 Oct 2026 10:39:10 +0530",
+            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/10/26/glance-2026-10-26-10-16-27.png"
+        },
+        {
+            "title": "Deep-tech defence startup Paar Autonomy raises Rs 10 Cr",
+            "link": "https://entrackr.com/snippets/deep-tech-defence-startup-paar-autonomy-raises-rs-10-cr-12751873",
+            "published": "Mon, 26 Oct 2026 10:01:36 +0530",
+            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/10/26/paarautonomy-2025-09-23-11-14-58-2026-10-26-09-54-01.png"
         }
     ]
 }
