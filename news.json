@@ -1,10 +1,36 @@
 {
     "Inc42": [
         {
-            "title": "Pronto\u2019s Second Shift",
-            "link": "https://inc42.com/features/prontos-second-shift/",
-            "published": "Sun, 08 Nov 2026 05:30:13 +0000",
-            "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Pronto-Outline-ftr.jpg"
+            "title": "Decoding BlackBuck\u2019s Core Trucking Model And Its New Engines",
+            "link": "https://inc42.com/resources/decoding-blackbucks-core-trucking-model-and-its-new-engines/",
+            "published": "Mon, 09 Nov 2026 12:38:55 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Blackbuck_Business-Model-ftr-1.jpg"
+        },
+        {
+            "title": "Profits Are Just Half The Story This Earnings Season",
+            "link": "https://inc42.com/features/profits-are-just-half-the-story-this-earnings-season/",
+            "published": "Mon, 09 Nov 2026 00:30:35 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Q2-Performance_Markets-Ftr.jpg"
+        }
+    ],
+    "Entrackr": [
+        {
+            "title": "PhysicsWallah cites AI efficiencies for job cuts; offline biz faces profit pressure, earmarks $20 Mn for M&A",
+            "link": "https://entrackr.com/news/physicswallah-cites-ai-efficiencies-for-job-cuts-offline-biz-faces-profit-pressure-earmarks-20-mn-for-ma-12795872",
+            "published": "Mon, 09 Nov 2026 15:32:20 +0530",
+            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/11/09/pw-2026-11-09-15-29-41.png"
+        },
+        {
+            "title": "FamApp\u2019s revenue touches Rs 25 Cr in FY26, profit nosedives 99%",
+            "link": "https://entrackr.com/fintrackr/famapps-revenue-touches-rs-25-cr-in-fy26-profit-nosedives-99-12795245",
+            "published": "Mon, 09 Nov 2026 11:56:22 +0530",
+            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/11/09/famapp-2026-11-09-12-41-50.png"
+        },
+        {
+            "title": "DriveU\u2019s net profit doubles in FY26; NTV grows to Rs 131 Cr",
+            "link": "https://entrackr.com/fintrackr/driveus-net-profit-doubles-in-fy26-ntv-grows-to-rs-131-cr-12795093",
+            "published": "Mon, 09 Nov 2026 11:44:44 +0530",
+            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/11/05/drive-u-2026-11-05-16-05-47.png"
         }
     ]
 }
