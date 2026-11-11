@@ -1,36 +1,102 @@
 {
     "Inc42": [
         {
-            "title": "Decoding BlackBuck\u2019s Core Trucking Model And Its New Engines",
-            "link": "https://inc42.com/resources/decoding-blackbucks-core-trucking-model-and-its-new-engines/",
-            "published": "Mon, 09 Nov 2026 12:38:55 +0000",
-            "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Blackbuck_Business-Model-ftr-1.jpg"
+            "title": "SoftBank Q2: Lenskart & Meesho Drive Valuation Gains, Ola Electric Books Losses",
+            "link": "https://inc42.com/buzz/softbank-q2-lenskart-meesho-drive-valuation-gains-ola-electric-books-losses/",
+            "published": "Tue, 10 Nov 2026 19:57:18 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/softbank-q2-featured.png"
         },
         {
-            "title": "Profits Are Just Half The Story This Earnings Season",
-            "link": "https://inc42.com/features/profits-are-just-half-the-story-this-earnings-season/",
-            "published": "Mon, 09 Nov 2026 00:30:35 +0000",
-            "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Q2-Performance_Markets-Ftr.jpg"
+            "title": "NVIDIA Scandal & AI Selloff In the US: India\u2019s Neocloud Boom Faces Twin Tests",
+            "link": "https://inc42.com/features/nvidia-scandal-ai-selloff-in-the-us-indias-neocloud-boom-faces-twin-tests/",
+            "published": "Tue, 10 Nov 2026 16:37:51 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Jensen-Neocloud-ftr.jpg"
+        },
+        {
+            "title": "Three Workers Die After Inhaling Toxic Gases At Tata\u2019s TN iPhone Factory",
+            "link": "https://inc42.com/buzz/three-workers-die-after-inhaling-toxic-gases-at-tatas-tn-iphone-factory/",
+            "published": "Tue, 10 Nov 2026 15:31:45 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/tata-deaths-featured.png"
+        },
+        {
+            "title": "Matrimony Q2 Profit Soars 2.7X YoY To \u20b920.7 Cr, Revenue up 17.6%",
+            "link": "https://inc42.com/buzz/matrimony-q2-profit-soars-2-7x-yoy-to-%e2%82%b920-7-cr-revenue-up-17-6/",
+            "published": "Tue, 10 Nov 2026 13:10:43 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Matrimony-FTR-1.jpg"
+        },
+        {
+            "title": "ShareChat Parent Mohalla Tech\u2019s FY26 Loss Widens 79% To \u20b91,978 Cr, Revenue Inches Past \u20b91,000 Cr Mark",
+            "link": "https://inc42.com/buzz/sharechat-parent-mohalla-techs-fy26-loss-widens-79-to-%e2%82%b91978-cr-revenue-inches-past-%e2%82%b91000-cr-mark/",
+            "published": "Tue, 10 Nov 2026 13:06:42 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Sharechat-FY26-ftr.jpg"
+        },
+        {
+            "title": "Froncort.AI Raises $2.3 Mn From Google.org To Expand AI-Based Disease Surveillance",
+            "link": "https://inc42.com/buzz/froncort-ai-raises-2-3-mn-from-google-org-to-expand-ai-based-disease-surveillance/",
+            "published": "Tue, 10 Nov 2026 12:52:54 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/stakcbox-funding-featured-1-1-1-1-3.jpg"
+        },
+        {
+            "title": "Why Gramiyaa Had To Think Like A Supermarket To Win On Quick Commerce",
+            "link": "https://inc42.com/startups/why-gramiyaa-had-to-think-like-a-supermarket-to-win-on-quick-commerce/",
+            "published": "Tue, 10 Nov 2026 11:30:19 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Gramiyaa-QCC-ftr.jpg"
+        },
+        {
+            "title": "Sarvam Ropes In Google Cloud India MD Sashikumar Sreedharan As President & CBO",
+            "link": "https://inc42.com/buzz/sarvam-ropes-in-google-cloud-india-md-sashikumar-sreedharan-as-president-cbo/",
+            "published": "Tue, 10 Nov 2026 07:00:39 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Sarvam-AI-Exclusive-ftr.jpg"
+        },
+        {
+            "title": "InMobi Secures Naming Rights For Bengaluru\u2019s Ibbaluru Metro Station For \u20b965 Cr",
+            "link": "https://inc42.com/buzz/inmobi-secures-naming-rights-for-bengalurus-ibbaluru-metro-station-for-%e2%82%b965-cr/",
+            "published": "Tue, 10 Nov 2026 06:37:10 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/07/InMobi-founders-ftr-1.jpg"
+        },
+        {
+            "title": "OpenAI Deploys Control Room With 35-Second Kill Switch Amid Security Concerns",
+            "link": "https://inc42.com/buzz/openai-deploys-control-room-with-35-second-kill-switch-amid-security-concerns/",
+            "published": "Tue, 10 Nov 2026 06:09:32 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/09/OpenAI-Web.jpg"
+        },
+        {
+            "title": "SEBI Clears MakeMyTrip\u2019s India IPO",
+            "link": "https://inc42.com/buzz/sebi-clears-makemytrips-india-ipo/",
+            "published": "Tue, 10 Nov 2026 06:07:44 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/09/MakeMyTrip-feature.jpg"
+        },
+        {
+            "title": "Beauty Brands Go Quick Commerce-First",
+            "link": "https://inc42.com/features/beauty-brands-go-quick-commerce-first/",
+            "published": "Tue, 10 Nov 2026 05:30:27 +0000",
+            "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Ecomm-Newsletter-Nov-6-ftr.jpg"
         }
     ],
     "Entrackr": [
         {
-            "title": "PhysicsWallah cites AI efficiencies for job cuts; offline biz faces profit pressure, earmarks $20 Mn for M&A",
-            "link": "https://entrackr.com/news/physicswallah-cites-ai-efficiencies-for-job-cuts-offline-biz-faces-profit-pressure-earmarks-20-mn-for-ma-12795872",
-            "published": "Mon, 09 Nov 2026 15:32:20 +0530",
-            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/11/09/pw-2026-11-09-15-29-41.png"
+            "title": "Blue Tokai crosses Rs 500 Cr revenue in FY26; losses up 54%",
+            "link": "https://entrackr.com/fintrackr/blue-tokai-crosses-rs-500-cr-revenue-in-fy26-losses-up-54-12798434",
+            "published": "Tue, 10 Nov 2026 15:17:29 +0530",
+            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/11/06/blue-tokai-2026-11-06-14-31-15.png"
         },
         {
-            "title": "FamApp\u2019s revenue touches Rs 25 Cr in FY26, profit nosedives 99%",
-            "link": "https://entrackr.com/fintrackr/famapps-revenue-touches-rs-25-cr-in-fy26-profit-nosedives-99-12795245",
-            "published": "Mon, 09 Nov 2026 11:56:22 +0530",
-            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/11/09/famapp-2026-11-09-12-41-50.png"
+            "title": "Sarvam appoints former Google Cloud India MD Sashikumar Sreedharan as President and CBO",
+            "link": "https://entrackr.com/snippets/sarvam-appoints-former-google-cloud-india-md-sashikumar-sreedharan-as-president-and-cbo-12798366",
+            "published": "Tue, 10 Nov 2026 14:44:01 +0530",
+            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/11/10/sarvam-2026-11-10-14-04-00.png"
         },
         {
-            "title": "DriveU\u2019s net profit doubles in FY26; NTV grows to Rs 131 Cr",
-            "link": "https://entrackr.com/fintrackr/driveus-net-profit-doubles-in-fy26-ntv-grows-to-rs-131-cr-12795093",
-            "published": "Mon, 09 Nov 2026 11:44:44 +0530",
-            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/11/05/drive-u-2026-11-05-16-05-47.png"
+            "title": "ShareChat parent crosses Rs 1,000 Cr revenue in FY26",
+            "link": "https://entrackr.com/fintrackr/sharechat-parent-crosses-rs-1000-cr-revenue-in-fy26-posts-rs-672-cr-loss-12797478",
+            "published": "Tue, 10 Nov 2026 10:15:32 +0530",
+            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/11/10/sharechat-1-2026-11-10-11-38-35.png"
+        },
+        {
+            "title": "Festive boost: D2C startups bag every third funding deal in October",
+            "link": "https://entrackr.com/report/festive-boost-d2c-startups-bag-every-third-funding-deal-in-october-12797327",
+            "published": "Tue, 10 Nov 2026 10:04:43 +0530",
+            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/11/10/d2c-sales-2026-11-10-09-05-31.png"
         }
     ]
 }
